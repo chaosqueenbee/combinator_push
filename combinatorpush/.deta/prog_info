@@ -1,0 +1,1 @@
+{"id":"228d96ab-f4a2-4bc7-b9e2-dcf24313e8f2","space":20502,"runtime":"python3.9","name":"combinatorpush","path":"y8jrsj","project":"b0dys8z4","account":"144798365827","region":"us-west-1","deps":["combinatorapi","requests"],"envs":["MAGIC_BELL_API_KEY","MAGIC_BELL_API_SECRET","TO_EMAIL"],"public":true,"log_level":"debug","cron":"0 10 ? * SUN *"}
